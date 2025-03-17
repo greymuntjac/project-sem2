@@ -1,2 +1,6 @@
-a=input("input your name")
-print(a.upper())
+#exercise1.py
+#Author=Gudenghao
+#17/3/25
+
+a=int(input("input a number"))
+print(a*2)

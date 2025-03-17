@@ -1,7 +1,12 @@
-a=int(input("input your age"))
-if a <= 19:
-        print ("you have quality for student discount")
-elif 20 <= a <= 54:
-        print("you do not have any discount")
-else:
-        print("you have the quality for senior discount")  
+#exercise3.py
+#Author:Gudenghao
+#17/3/25
+
+
+import random
+a=random.randint(10,20)
+while True:
+      b=int(input("guess a number"))
+     is a==b :
+      print("congratulations")
+      break  

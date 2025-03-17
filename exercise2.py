@@ -1,7 +1,6 @@
-import random
-a=random.randint(10,20)
-while True:
-      b=int(input("guess a number"))
-     is a==b :
-      print("congratulations")
-      break  
+#exercise2.py
+#Author=Gudenghao
+#17/3/25
+
+a=input("input your name")
+print(a.upper())
